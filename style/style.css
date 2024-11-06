@@ -110,7 +110,7 @@ main {
 }
 .navbar__auth_btn:hover {
     background-color: var(--blur-orange-color);
-    color: #fff;
+
 }
 
 /* Header - Header content */
